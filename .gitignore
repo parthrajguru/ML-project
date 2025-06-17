@@ -1,4 +1,6 @@
 venv/
-__pycache__/
-*.pyc
 .DS_Store
+*.log
+
+
+>>>>>>> 54454da0d1da917873f61d8e381d67433fd1c5ae
